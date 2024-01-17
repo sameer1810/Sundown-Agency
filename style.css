@@ -125,7 +125,7 @@ nav h3 {
     line-height: 8vw;
 }
 
-#page1 video {
+#page1 .video {
     position: relative;
     border-radius: 30px;
     margin-top: 4vw;
